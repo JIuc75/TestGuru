@@ -1,24 +1,27 @@
-# README
+#TestGuru
+Приложение для создания, управления и выполнения различных тестов. Тесты с вопросами и вариантами ответов.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Основные возможности:
 
-Things you may want to cover:
+*Создание тестов и управление ими
 
-* Ruby version
+*Аутентификация
 
-* System dependencies
+*Базовое разграничение прав доступа
 
-* Configuration
+*Выполнение тестов
 
-* Database creation
+*Публикация результатов в соцсети
 
-* Database initialization
+Список сущностей (объектов реального мира):
+*Тест (Test)
 
-* How to run the test suite
+*Вопрос (Question)
 
-* Services (job queues, cache servers, search engines, etc.)
+*Ответ (Answer)
 
-* Deployment instructions
+*Категория (Category)
 
-* ...
+*Результат (Result)
+
+*Пользователи (User)
